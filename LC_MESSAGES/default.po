@@ -1644,3 +1644,9 @@ msgstr "Maitrisée adéquatement"
 
 msgid "server.2.2"
 msgstr "Bien maitrisée"
+
+msgid "parameter"
+msgstr "paramètre"
+
+msgid "value"
+msgstr "valeur"
