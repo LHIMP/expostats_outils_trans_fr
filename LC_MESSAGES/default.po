@@ -75,6 +75,9 @@ msgstr "Paramètres estimés"
 msgid "subtab.name.3"
 msgstr "Analyse de risque"
 
+msgid "subtab.name.4"
+msgstr "Bandes de risque AIHA"
+
 # #########  TOOL2
 msgid "main.title.t2"
 msgstr ""
@@ -1650,3 +1653,6 @@ msgstr "paramètre"
 
 msgid "value"
 msgstr "valeur"
+
+msgid "95th Percentile Category"
+msgstr "Catégorie du 95ième centile"
